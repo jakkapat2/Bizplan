@@ -1,0 +1,7 @@
+{
+  "name": "ArokaGO Events",
+  "description": "A premium, Luma-style event discovery platform for Thailand featuring map exploration, category browsing, and AI-powered organizer tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
